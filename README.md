@@ -25,7 +25,7 @@ To run this project on your local machine, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/royal-mint-project.git
+git clone https://github.com/azizbohra17/Animated-Screensaver-Computer-Graphics-Project-.git
 ```
 
 2. Change to the project directory:
