@@ -31,19 +31,19 @@ git clone https://github.com/azizbohra17/Animated-Screensaver-Computer-Graphics-
 2. Change to the project directory:
 
 ```
-cd royal-mint-project
+cd Animated-Screensaver-Computer-Graphics-Project
 ```
 
 3. Compile the source code:
 
 ```
-gcc main.c -o royal-mint -lglut -lGL -lIL
+gcc cg.c -lglut -lGL -lIL
 ```
 
 4. Run the executable:
 
 ```
-./royal-mint
+./cg
 ```
 
 ## Contributing
